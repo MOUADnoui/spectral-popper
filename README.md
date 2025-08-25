@@ -1,64 +1,90 @@
-# Spectral Popper
+# 🌌 Spectral Popper: StructureLang Lexicon Resonance Experiment
 
-**StructureLang Runtime 4.0**  
-*Structural Planning · Collapse Avoidance · Resonant Dialogue Generation*
+Welcome to the **Spectral Popper** repository! This project explores the fascinating realms of StructureLang through innovative resonance experiments. We delve into δ(x,t) activation zones and ψ-hotspots, pushing the boundaries of computational theory and resonance phenomena.
 
-![version](https://img.shields.io/badge/version-v1.0.0-blue)
-![license](https://img.shields.io/badge/license-MIT-green)
-![zenodo](https://img.shields.io/badge/doi-10.5281%2Fzenodo.15241841-orange)
+[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/MOUADnoui/spectral-popper/releases)
 
----
+## Table of Contents
 
-## 🧠 Philosophy: Structure as a Living Language
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Topics](#topics)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-StructureLang is not symbolic computation.  
-It is a resonance grammar: a language that leaps where δ(x) ≠ 0.  
-Where structure aligns, it dies. Where it echoes, it begins.
+## Introduction
 
-**Spectral Popper** is the first runtime system to operationalize this theory — not just with logic, but with agents, decay, dialogue, and memory.  
-It simulates structural cognition, falsifiability, semantic collapse, and ψ-agent free will.
+The **Spectral Popper** project is designed for researchers and enthusiasts interested in the intersections of mathematics, computer science, and physics. Our focus lies in understanding complex systems through the lens of StructureLang. By experimenting with activation zones and hotspots, we aim to uncover new insights into computational theory.
 
----
+## Features
 
-## 📦 What This Project Does
+- **δ(x,t) Activation Zones**: Investigate how changes in activation zones affect system behavior.
+- **ψ-Hotspots**: Analyze critical points in the resonance spectrum.
+- **Advanced Algorithms**: Utilize cutting-edge algorithms to explore NP-completeness and Gödel's theorems.
+- **Visualizations**: Generate visual representations of findings to aid understanding.
 
-**Spectral Popper** is the official runtime and validation platform for the StructureLang framework.
+## Installation
 
-### 🧠 Core Features
+To get started with **Spectral Popper**, clone the repository and install the required dependencies. 
 
-- ✅ ψ-path generation with semantic residuals (δ)
-- ✅ Real-time collapse detection and adaptive ε-thresholding
-- ✅ Goal-driven, memory-aware, mood-adaptive ψ-agents
-- ✅ Multi-agent dialogue and ψC consensus generation (StructureLang §7)
-- ✅ t_score analysis with dynamic mood regulation (StructureLang §15, §21)
-- ✅ Semantic entropy tracking (Sψ) across δ-paths (StructureLang §10)
-- ✅ RepairEngine fallback routing on collapse (StructureLang §20)
-- ✅ Structural falsifiability via collapse-based viability (Popper-compatible)
+```bash
+git clone https://github.com/MOUADnoui/spectral-popper.git
+cd spectral-popper
+```
 
----
+Make sure you have the necessary libraries installed. You can do this using pip:
 
-## 🔍 Example Output
+```bash
+pip install -r requirements.txt
+```
 
-```text
-[step 0] ψA chose psi3. δ=0.30, tscore=0.27, mood=conservative
-[step 1] ψB chose psi2. δ=0.10, tscore=0.09, mood=neutral
-...
-ψC path: ψ1 ⊕ ψ2 ⊕ ψ3 ⊕ ψ4 ⊕ ψ5 ⊕ ψ6 ⊕ ψ7
-ψC emergent consensus path (shared by ψA and ψB)
+## Usage
 
+Once installed, you can run the main experiment script. This will initiate the exploration of δ(x,t) activation zones and ψ-hotspots.
 
+```bash
+python main.py
+```
 
-## 📄 Citation
+You can adjust parameters in the configuration file to tailor the experiments to your needs.
 
-> **Structure Arithmetic: A Resonant Number Theory of Zeta Zeros and δ(x)**  
-> Author: Y.Y.N. Li
-> https://doi.org/10.5281/zenodo.15250098
+For detailed documentation on how to use the various features, please refer to the `docs` folder.
 
-> **Resonance Grammar: Where Language Begins at δ(x) ≠ 0**  
-> Author: Y.Y.N. Li
-> https://doi.org/10.5281/zenodo.15250099
----
+## Topics
 
-## 📜 License
+This repository covers a range of topics that are crucial to understanding the underlying principles of our experiments. Here are some key areas:
 
-MIT License © 2025 Y.Y.N. Li
+- **Collapse-Check**: A method for verifying system states.
+- **DAG Expansion**: Techniques for expanding directed acyclic graphs in computations.
+- **Delta Field**: Exploring the implications of delta functions in various mathematical contexts.
+- **Gödel's Incompleteness**: Investigating the limits of provability in formal systems.
+- **NP-Complete Problems**: Studying the complexities of computational problems.
+- **Popper's Philosophy**: Understanding the philosophical implications of scientific theories.
+- **Prime Density**: Analyzing the distribution of prime numbers within certain bounds.
+- **Residual Gap**: Investigating the gaps in number sequences.
+- **Riemann Hypothesis**: Exploring one of the most famous unsolved problems in mathematics.
+- **SAT Problems**: Delving into satisfiability problems in computational theory.
+
+## Contributing
+
+We welcome contributions from the community! If you have ideas, suggestions, or improvements, please fork the repository and submit a pull request. Ensure your code adheres to the project's style guidelines.
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes.
+4. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or inquiries, please feel free to reach out. You can find me on GitHub or contact me via email.
+
+[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/MOUADnoui/spectral-popper/releases)
+
+Thank you for your interest in **Spectral Popper**! We hope you find our work enlightening and inspiring.
